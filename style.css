@@ -6,7 +6,12 @@
 body{
 	height: 100vh;
 	background: #03dfff;
-	background: linear-gradient(139deg,#03ddffcb 0%,#ff0381b6 90%);
+	background: linear-gradient(white, black);
+}
+
+footer {
+text-align: center;
+background-color: black;	
 }
 .container{
 	position: relative;
